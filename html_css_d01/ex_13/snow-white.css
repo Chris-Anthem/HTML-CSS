@@ -1,0 +1,40 @@
+p1
+{
+    background-color: black;
+    font-family: Impact;
+    font-size: 21px;
+    color: white;
+}
+
+p2
+{
+    color : black;
+    font-size: 27px;
+    background-color: white;
+}
+
+body
+{
+    background-color: yellow;
+}
+
+span
+{
+    color: red;
+    font-style: italic;
+}
+
+.left-bordered-and-big
+{
+    float: left;
+    border: 1px solid black;
+    width: 60%;
+}
+
+.right-bordered-and-small
+{
+    float : right;
+    border: 1px solid black;
+    width: 20%;
+}
+

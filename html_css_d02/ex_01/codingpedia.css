@@ -1,0 +1,63 @@
+html{
+background-color: white;
+border-color: 1px solid green;
+}    
+    
+header{
+    position : fixed;
+    z-index:5;
+    background-color:white;
+    text-align : center;
+    height : 12%;
+    width : 98%;
+    top : 0;
+    border-bottom : 1px solid lightgrey;
+}
+
+nav{
+    position : absolute;
+    top : 0 ;
+    right: 0;
+}
+
+li{
+    border: 2px solid black;
+    display : inline;
+}
+
+a:hover {
+    background-color: lightblue;
+  }
+
+main{
+    margin-top : 15%;
+}
+
+tr:nth-child(even){
+    background: #FFF;
+}
+
+table{
+    background-color:grey;
+}
+
+tr:nth-child(odd){
+    background: #CCC;
+}
+
+aside{
+    position: relative;
+    margin-top: -20%;
+    float: right;
+    border : 2px solid black;
+    height: 85%;
+    width : 15%;
+}
+
+footer{
+    border: 1px solid lightgrey;
+    text-align: center;
+    bottom: 0;
+    width : 98%;
+    position : fixed;
+}

@@ -1,0 +1,27 @@
+p1
+{
+    background-color: black;
+    font-family: Impact;
+    font-size: 21px;
+    color: white;
+   
+}
+
+p2
+{
+    color : black;
+    font-size: 27px;
+    background-color: white;
+}
+
+html
+{
+    background-color:yellow;
+}
+
+span
+{
+    color : red;
+    font-style: italic;
+}
+
